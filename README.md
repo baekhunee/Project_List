@@ -107,9 +107,19 @@ __Link:__ https://github.com/baekhunee/MPT_report
 # 其他说明
 ## 个人信息
 姓名：权周雨
+
 学号：202000460021
+
 单位: 山东大学青岛校区网络空间安全学院2020级本科2班
+
 本次实验未参与小组
+
+## 未完成项目
+1、Find a key with hash value “sdu_cst_20220610” under a message composed of your name followed by your student ID. 
+
+2、Find a 64-byte message under some k fulfilling that their hash value is symmetrical.
+
+3、Write a circuit to prove that your CET6 grade is larger than 425. 
 
 ## 运行指导
 多数代码可以直接运行，涉及网络通信的代码已在各项目的README.md文件中给予运行说明
